@@ -183,11 +183,13 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
-# 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su-Xmt-007&show_icons=true&theme=default)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Su-Xmt-007&show_icons=true" height="165">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Xmt-007&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Xmt-007&layout=compact" height="165">
+</p>
 
 ---
 
