@@ -185,15 +185,16 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su-Xmt-007\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su-Xmt-007&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Xmt-007\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Xmt-007&layout=compact)
 
 ---
 
 # 🌐 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/s-hazra-mt007/
+
 📧 Email: subhamhazramoy@gamil.com
 
 ---
