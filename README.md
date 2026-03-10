@@ -193,8 +193,8 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 # 🌐 Connect With Me
 
-💼 LinkedIn: (Add your LinkedIn URL)
-📧 Email: (Add your email)
+💼 LinkedIn: https://www.linkedin.com/in/s-hazra-mt007/
+📧 Email: subhamhazramoy@gamil.com
 
 ---
 
