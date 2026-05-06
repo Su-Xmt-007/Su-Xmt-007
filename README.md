@@ -55,6 +55,50 @@
 
 ---
 
+### 📣 [Marketing ROI & Budget Optimization Analysis](https://github.com/Su-Xmt-007/Marketing-ROI-Budget-Optimization-Analysis)
+> Multi-channel marketing performance audit — ROI · CAC · A/B Testing · Budget Reallocation
+
+- Evaluated campaign efficiency across Email, Paid Search, Social Media, and Events channels
+- Calculated **Customer Acquisition Cost (CAC)** per channel to identify wasteful spend
+- Applied **statistical A/B testing** (p<0.05) to validate winning campaign variants
+- Delivered data-driven budget reallocation strategy improving overall marketing ROI
+- **Tech:** Power BI · SQL · Excel · Statistical Testing
+
+---
+
+### 🌍 [Global Sales Data Analysis](https://github.com/Su-Xmt-007/Global-Sales-Data-Analysis)
+> End-to-end retail sales analytics — PostgreSQL · SQL · Advanced Statistics · Power BI · Executive Reporting
+
+- Analyzed global retail sales data across regions, product categories, and time periods
+- Wrote **advanced SQL queries** (CTEs, window functions, aggregations) on PostgreSQL
+- Identified top-performing regions and seasonal demand patterns driving Q4 revenue spikes
+- Built executive Power BI dashboard for real-time business performance monitoring
+- **Tech:** PostgreSQL · SQL · Power BI · Excel · Advanced Statistics
+
+---
+
+### 🧪 [VOIS AICTE Data Analytics Internship](https://github.com/Su-Xmt-007/VOIS_AICTE_OCT2025_SUBHAMOYHAZRA)
+> Vodafone Intelligent Solutions × AICTE — Data Cleaning · EDA · Visualization · Business Insights
+
+- Completed structured data analytics projects during **VOIS AICTE Internship (Oct 2025)**
+- Built reusable Python pipelines for data cleaning, outlier detection, and EDA automation
+- Developed interactive Power BI dashboards for stakeholder-ready business reporting
+- Applied end-to-end workflow: Raw Data → Cleaning → EDA → Visualization → Insights
+- **Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Power BI
+
+---
+
+### 🎬 [Netflix Content Data Analysis](https://github.com/Su-Xmt-007/VOIS_AICTE_Oct2025_NETFLIX-DATA-ANALYSIS_SUBHAMOYHAZRA)
+> Exploratory analysis of 8,800+ Netflix titles — Genre Trends · Country Production · Platform Growth
+
+- Analyzed Netflix catalog to uncover content strategy patterns driving global subscriber growth
+- Discovered **International content is #1 genre** — reflecting Netflix's aggressive global expansion
+- Identified **TV Shows growing faster than Movies** post-2019 — binge culture driving retention
+- Visualized country-wise production surge (India, South Korea, UK) reshaping streaming landscape
+- **Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Google Colab
+
+---
+
 ## 📈 GitHub Stats
 
 ![Subhamoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su-Xmt-007&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=E24B4A&icon_color=2563a8&text_color=cbd5e1)
