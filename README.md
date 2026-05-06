@@ -66,7 +66,7 @@
 ## 📫 Contact Me
 
 - 💼 Open to: **Data Analyst / BI Developer / HR Analytics roles**
-- 📧 Email: your.email@gmail.com
+- 📧 Email: subhamhazramoy@gmail.com
 - 🔗 LinkedIn: linkedin.com/in/your-profile
 
 ---
