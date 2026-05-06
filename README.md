@@ -1,5 +1,5 @@
 # Hi, I'm Subhamoy Hazra 👋
-### Data Analyst | Power BI · Python · SQL · Machine Learning(Very Basics)
+### Data Analyst | Power BI · Python · SQL · Machine Learning Basics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s-hazra-mt007/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Su-Xmt-007)
