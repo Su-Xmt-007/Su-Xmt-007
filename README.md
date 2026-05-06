@@ -111,7 +111,7 @@
 
 - 💼 Open to: **Data Analyst / BI Developer / HR Analytics roles**
 - 📧 Email: subhamhazramoy@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/s-hazra-mt007/
+- 🔗 LinkedIn: www.linkedin.com/in/subhamoyhazra3
 
 ---
 *"Data is just data until you tell its story."*
