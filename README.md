@@ -1,7 +1,7 @@
 # Hi, I'm Subhamoy Hazra 👋
 ### Data Analyst | Power BI · Python · SQL · Machine Learning Basics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s-hazra-mt007/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/subhamoyhazra3)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Su-Xmt-007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-E24B4A?style=for-the-badge&logo=powerbi)](https://github.com/Su-Xmt-007)
 
@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-> I turn messy HR and business data into clear, actionable decisions.
+> I turn messy business data into clear, actionable decisions.
 > Specialized in end-to-end analytics — from raw PostgreSQL data to executive Power BI dashboards and predictive ML models.
 
-- 🔍 Currently building: **HR Analytics & People Intelligence projects**
+- 🔍 Currently building: **Inventory Analytics & Quick-Commerce Intelligence projects**
 - 📊 Obsessed with: **Storytelling through data visualization**
 - 🤖 Learning: **Machine Learning for business prediction**
 - 📍 Based in: **India**
@@ -44,11 +44,12 @@
 
 ## 🚀 Featured Projects
 
+
 ### 🏆 [HR Attrition Analysis](https://github.com/Su-Xmt-007/HR-ATTRITION-ANALYSIS)
 > End-to-end people analytics project — EDA + ML + Power BI Dashboard
 
 - Analyzed 1,470 IBM employees to identify attrition drivers
-- Discovered **Danger Zone**: Overtime + No Stock = **45.1% attrition** (3× average)
+- Discovered **Danger Zone**: Overtime + No Stock Options = **45.1% attrition** (3× average)
 - Built ML model with **~85% accuracy** to flag flight-risk employees
 - Delivered 2-page interactive Power BI dashboard with conditional formatting
 - **Tech:** Python · Scikit-learn · PostgreSQL · Power BI · DAX
@@ -63,6 +64,19 @@
 - Applied **statistical A/B testing** (p<0.05) to validate winning campaign variants
 - Delivered data-driven budget reallocation strategy improving overall marketing ROI
 - **Tech:** Power BI · SQL · Excel · Statistical Testing
+
+---
+
+### 🛒 [Zepto Inventory Management — End-to-End Data Analysis](https://github.com/Su-Xmt-007/Zepto-Inventory-Management-Data-Analysis)
+> 6-phase inventory analytics project — Wrangling · EDA · Statistical Testing · ML · PostgreSQL ETL · Power BI Dashboard
+
+- Analyzed **3,692 product SKUs** across 14 categories to identify stockout drivers and revenue risk
+- Discovered **26.6% of catalog at risk** (983 SKUs) — OOS is a **supply-chain failure, not demand-driven** (Mann-Whitney p<0.001)
+- Quantified **₹41,939 revenue at risk** — proved Biscuits (worst OOS rate) ranks 12th in ₹ impact vs Cooking Essentials (1st)
+- Built **Random Forest classifier (AUC 0.855)** to predict which SKUs will go OOS before they do
+- Automated daily **PostgreSQL ETL pipeline** with 7 business SQL queries + procurement report generation
+- Delivered **3-page interactive Power BI dashboard** (10 DAX measures, conditional formatting, page navigation)
+- **Tech:** Python · Pandas · SciPy · Scikit-learn · PostgreSQL · Power BI · DAX
 
 ---
 
