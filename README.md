@@ -43,17 +43,18 @@
 ---
 
 ## 🚀 Featured Projects
+
 ### 🇧🇷 [Olist Brazilian E-Commerce — End-to-End Analytics](https://github.com/Su-Xmt-007/Olist-Ecommerce-Analysis)
 > 7-phase e-commerce analytics project — Wrangling · RFM · Cohort · ML · PostgreSQL Warehouse · Power BI Dashboard
 
 - Analyzed **96,470 orders across 96,096 customers** (Sep 2016 – Aug 2018) to uncover revenue drivers, customer behavior, and delivery performance
 - Engineered **RFM segmentation** across 93,350 customers — identified **22K "At Risk" customers** (largest segment) as primary re-engagement opportunity
-- Discovered **retention crisis**: only 2.91% repeat customer rate vs 20–30% industry average — cohort analysis confirmed single-purchase dominance
-- Built **churn prediction ML model** to flag flight-risk customers before they lapse
+- Discovered **retention crisis**: only 2.91% repeat customer rate vs 20–30% industry average — cohort analysis confirmed single-purchase dominance; growth scaled 10x but loyalty stayed flat across every cohort
+- Built **Random Forest churn model (AUC: 0.XX)** — first-order experience identified as #1 churn driver; late delivery statistically confirmed via Mann-Whitney (p<0.001)
 - Designed and loaded **10-table star schema warehouse** in PostgreSQL — grain verified, modular ETL pipeline with logging and validation
 - Answered **10 business SQL questions** on revenue, delivery, seller, and category performance
 - Delivered **3-page interactive Power BI dashboard** (13 DAX measures, RFM distribution, delivery heatmap, category scatter, conditional formatting, page navigation)
-- **Tech:** Python · Pandas · Scikit-learn · PostgreSQL · Power BI · DAX
+- **Tech:** Python · Pandas · Scikit-learn · SciPy · PostgreSQL · Power BI · DAX**Tech:** Python · Pandas · Scikit-learn · PostgreSQL · Power BI · DAX
 
 ---
 
